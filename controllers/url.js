@@ -25,7 +25,6 @@ async function handleGetAnalytics(req, res) {
 }
 
 module.exports = {
-    handleGenerateNewShortURL,
-    handleGetAnalytics,
-  };
-  
+  handleGenerateNewShortURL,
+  handleGetAnalytics,
+};
